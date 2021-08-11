@@ -1,0 +1,250 @@
+{
+    "ноль": {
+        "value": 0,
+        "errors_limit": 1
+    },
+    "один": {
+        "value": 1,
+        "errors_limit": 1
+    },
+    "два": {
+        "value": 2,
+        "errors_limit": 1
+    },
+    "три": {
+        "value": 3,
+        "errors_limit": 0
+    },
+    "четыре": {
+        "value": 4,
+        "errors_limit": 2
+    },
+    "пять": {
+        "value": 5,
+        "errors_limit": 0
+    },
+    "шесть": {
+        "value": 6,
+        "errors_limit": 1
+    },
+    "семь": {
+        "value": 7,
+        "errors_limit": 0
+    },
+    "восемь": {
+        "value": 8,
+        "errors_limit": 2
+    },
+    "девять": {
+        "value": 9,
+        "errors_limit": 2
+    },
+    "десять": {
+        "value": 10,
+        "errors_limit": 2
+    },
+    "одиннадцать": {
+        "value": 11,
+        "errors_limit": 2
+    },
+    "двенадцать": {
+        "value": 12,
+        "errors_limit": 2
+    },
+    "тринадцать": {
+        "value": 13,
+        "errors_limit": 2
+    },
+    "четырнадцать": {
+        "value": 14,
+        "errors_limit": 2
+    },
+    "пятнадцать": {
+        "value": 15,
+        "errors_limit": 2
+    },
+    "шестнадцать": {
+        "value": 16,
+        "errors_limit": 2
+    },
+    "семнадцать": {
+        "value": 17,
+        "errors_limit": 2
+    },
+    "восемнадцать": {
+        "value": 18,
+        "errors_limit": 2
+    },
+    "девятнадцать": {
+        "value": 19,
+        "errors_limit": 2
+    },
+    "двадцать": {
+        "value": 20,
+        "errors_limit": 2
+    },
+    "тридцать": {
+        "value": 30,
+        "errors_limit": 2
+    },
+    "сорок": {
+        "value": 40,
+        "errors_limit": 0
+    },
+    "пятьдесят": {
+        "value": 50,
+        "errors_limit": 2
+    },
+    "шестьдесят": {
+        "value": 60,
+        "errors_limit": 2
+    },
+    "семьдесят": {
+        "value": 70,
+        "errors_limit": 2
+    },
+    "восемьдесят": {
+        "value": 80,
+        "errors_limit": 2
+    },
+    "девяносто": {
+        "value": 90,
+        "errors_limit": 2
+    },
+    "сто": {
+        "value": 100,
+        "errors_limit": 0
+    },
+    "сотня": {
+        "value": 100,
+        "errors_limit": 2
+    },
+    "двести": {
+        "value": 200,
+        "errors_limit": 1
+    },
+    "триста": {
+        "value": 300,
+        "errors_limit": 1
+    },
+    "четыреста": {
+        "value": 400,
+        "errors_limit": 2
+    },
+    "пятьсот": {
+        "value": 500,
+        "errors_limit": 2
+    },
+    "шестьсот": {
+        "value": 600,
+        "errors_limit": 2
+    },
+    "семьсот": {
+        "value": 700,
+        "errors_limit": 2
+    },
+    "восемьсот": {
+        "value": 800,
+        "errors_limit": 2
+    },
+    "девятьсот": {
+        "value": 900,
+        "errors_limit": 2
+    },
+    "тысяча": {
+        "value": 1000,
+        "errors_limit": 2
+    },
+    "тыща": {
+        "value": 1000,
+        "errors_limit": 1
+    },
+    "миллион": {
+        "value": 1000000,
+        "errors_limit": 2
+    },
+    "миллиард": {
+        "value": 1000000000,
+        "errors_limit": 2
+    },
+    "триллион": {
+        "value": 1000000000000,
+        "errors_limit": 2
+    },
+    "первый": {
+        "value": 1,
+        "errors_limit": 2
+    },
+    "второй": {
+        "value": 2,
+        "errors_limit": 2
+    },
+    "третий": {
+        "value": 3,
+        "errors_limit": 2
+    },
+    "третьего": {
+        "value": 3,
+        "errors_limit": 0
+    },
+    "пятый": {
+        "value": 5,
+        "errors_limit": 1
+    },
+    "пятая": {
+        "value": 5,
+        "errors_limit": 1
+    },
+    "пятого": {
+        "value": 5,
+        "errors_limit": 1
+    },
+    "пятыми": {
+        "value": 5,
+        "errors_limit": 1
+    },
+    "шестой": {
+        "value": 6,
+        "errors_limit": 2
+    },
+    "седьмой": {
+        "value": 7,
+        "errors_limit": 2
+    },
+    "восьмой": {
+        "value": 8,
+        "errors_limit": 2
+    },
+    "девятый": {
+        "value": 9,
+        "errors_limit": 2
+    },
+    "четвертый": {
+        "value": 4,
+        "errors_limit": 0
+    },
+    "четвертая": {
+        "value": 4,
+        "errors_limit": 0
+    },
+    "четвертыое": {
+        "value": 4,
+        "errors_limit": 0
+    },
+    "четвертого": {
+        "value": 4,
+        "errors_limit": 0
+    },
+    "четвертые": {
+        "value": 4,
+        "errors_limit": 0
+    },
+    "полтора": {
+        "value": 1.5,
+        "errors_limit": 0
+    },
+    "полторы": {
+        "value": 1.5,
+        "errors_limit": 0
+    }
+}

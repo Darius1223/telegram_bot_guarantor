@@ -1,0 +1,494 @@
+    {
+    "секунда": {
+        "regex_char": "s",
+        "errors_limit": 2,
+        "value": 0,
+        "maximum": 60
+    },
+    "минута": {
+        "regex_char": "m",
+        "errors_limit": 2,
+        "value": 0,
+        "maximum": 60
+    },
+    "час": {
+        "regex_char": "h",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 24
+    },
+    "часа": {
+        "regex_char": "h",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 24
+    },
+    "часов": {
+        "regex_char": "h",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 24
+    },
+    "неделя": {
+        "regex_char": "w",
+        "errors_limit": 2,
+        "value": 0,
+        "maximum": 7
+    },
+    "месяц": {
+        "regex_char": "K",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "месяца": {
+        "regex_char": "K",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "месяцев": {
+        "regex_char": "K",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "год": {
+        "regex_char": "y",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "года": {
+        "regex_char": "y",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "году": {
+        "regex_char": "y",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "лет": {
+        "regex_char": "y",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "январь": {
+        "regex_char": "M",
+        "errors_limit": 1,
+        "value": 1,
+        "maximum": 31
+    },
+    "февраль": {
+        "regex_char": "M",
+        "errors_limit": 2,
+        "value": 2,
+        "maximum": 29
+    },
+    "март": {
+        "regex_char": "M",
+        "errors_limit": 1,
+        "value": 3,
+        "maximum": 31
+    },
+    "апрель": {
+        "regex_char": "M",
+        "errors_limit": 1,
+        "value": 4,
+        "maximum": 30
+    },
+    "май": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 5,
+        "maximum": 31
+    },
+    "мая": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 5,
+        "maximum": 31
+    },
+    "мае": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 5,
+        "maximum": 31
+    },
+    "июнь": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 6,
+        "maximum": 30
+    },
+    "июне": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 6,
+        "maximum": 30
+    },
+    "июня": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 6,
+        "maximum": 30
+    },
+    "июль": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 7,
+        "maximum": 31
+    },
+    "июле": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 7,
+        "maximum": 31
+    },
+    "июля": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 7,
+        "maximum": 31
+    },
+    "август": {
+        "regex_char": "M",
+        "errors_limit": 1,
+        "value": 8,
+        "maximum": 31
+    },
+    "сентябрь": {
+        "regex_char": "M",
+        "errors_limit": 2,
+        "value": 9,
+        "maximum": 30
+    },
+    "октябрь": {
+        "regex_char": "M",
+        "errors_limit": 2,
+        "value": 10,
+        "maximum": 31
+    },
+    "ноябрь": {
+        "regex_char": "M",
+        "errors_limit": 2,
+        "value": 11,
+        "maximum": 30
+    },
+    "декабрь": {
+        "regex_char": "M",
+        "errors_limit": 2,
+        "value": 12,
+        "maximum": 31
+    },
+    "янв": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 1,
+        "maximum": 31
+    },
+    "фев": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 2,
+        "maximum": 29
+    },
+    "мар": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 3,
+        "maximum": 31
+    },
+    "апр": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 4,
+        "maximum": 30
+    },
+    "июн": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 6,
+        "maximum": 31
+    },
+    "июл": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 7,
+        "maximum": 31
+    },
+    "авг": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 8,
+        "maximum": 30
+    },
+    "сен": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 9,
+        "maximum": 30
+    },
+    "окт": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 10,
+        "maximum": 30
+    },
+    "ноя": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 11,
+        "maximum": 31
+    },
+    "дек": {
+        "regex_char": "M",
+        "errors_limit": 0,
+        "value": 12,
+        "maximum": 31
+    },
+    "днём": {
+        "regex_char": "O",
+        "errors_limit": 1,
+        "value": 3,
+        "maximum": 0
+    },
+    "день": {
+        "regex_char": "d",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "дней": {
+        "regex_char": "d",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "дня": {
+        "regex_char": "O",
+        "errors_limit": 0,
+        "value": 3,
+        "maximum": 0
+    },
+    "дни": {
+        "regex_char": "O",
+        "errors_limit": 0,
+        "value": 3,
+        "maximum": 0
+    },
+    "дне": {
+        "regex_char": "O",
+        "errors_limit": 0,
+        "value": 3,
+        "maximum": 0
+    },
+    "понедельник": {
+        "regex_char": "d",
+        "errors_limit": 3,
+        "value": 2,
+        "maximum": 0
+    },
+    "вторник": {
+        "regex_char": "d",
+        "errors_limit": 2,
+        "value": 3,
+        "maximum": 0
+    },
+    "среда": {
+        "regex_char": "d",
+        "errors_limit": 0,
+        "value": 4,
+        "maximum": 0
+    },
+    "среду": {
+        "regex_char": "d",
+        "errors_limit": 0,
+        "value": 4,
+        "maximum": 0
+    },
+    "среды": {
+        "regex_char": "d",
+        "errors_limit": 0,
+        "value": 4,
+        "maximum": 0
+    },
+    "четверг": {
+        "regex_char": "d",
+        "errors_limit": 1,
+        "value": 5,
+        "maximum": 0
+    },
+    "пятница": {
+        "regex_char": "d",
+        "errors_limit": 1,
+        "value": 6,
+        "maximum": 0
+    },
+    "суббота": {
+        "regex_char": "d",
+        "errors_limit": 2,
+        "value": 7,
+        "maximum": 0
+    },
+    "воскресенье": {
+        "regex_char": "d",
+        "errors_limit": 3,
+        "value": 1,
+        "maximum": 0
+    },
+    "в": {
+        "regex_char": "p",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "к": {
+        "regex_char": "p",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "во": {
+        "regex_char": "p",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "на": {
+        "regex_char": "P",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "числа": {
+        "regex_char": "S",
+        "errors_limit": 1,
+        "value": 0,
+        "maximum": 0
+    },
+    "и": {
+        "regex_char": "I",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "следующий": {
+        "regex_char": "F",
+        "errors_limit": 3,
+        "value": 0,
+        "maximum": 0
+    },
+    "ночь": {
+        "regex_char": "O",
+        "errors_limit": 1,
+        "value": 1,
+        "maximum": 0
+    },
+    "утро": {
+        "regex_char": "O",
+        "errors_limit": 1,
+        "value": 2,
+        "maximum": 0
+    },
+    "вечер": {
+        "regex_char": "O",
+        "errors_limit": 2,
+        "value": 4,
+        "maximum": 0
+    },
+    "пол": {
+        "regex_char": "H",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "половина": {
+        "regex_char": "H",
+        "errors_limit": 1,
+        "value": 0,
+        "maximum": 0
+    },
+    "полчаса": {
+        "regex_char": "X",
+        "errors_limit": 1,
+        "value": 0,
+        "maximum": 0
+    },
+    "без": {
+        "regex_char": "B",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "завтра": {
+        "regex_char": "A",
+        "errors_limit": 1,
+        "value": 1,
+        "maximum": 0
+    },
+    "послезавтра": {
+        "regex_char": "A",
+        "errors_limit": 2,
+        "value": 2,
+        "maximum": 0
+    },
+    "сегодня": {
+        "regex_char": "A",
+        "errors_limit": 1,
+        "value": 0,
+        "maximum": 0
+    },
+    "через": {
+        "regex_char": "C",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "с": {
+        "regex_char": "V",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "до": {
+        "regex_char": "Z",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "каждый": {
+        "regex_char": "E",
+        "errors_limit": 2,
+        "value": 0,
+        "maximum": 0
+    },
+    "каждому": {
+        "regex_char": "E",
+        "errors_limit": 2,
+        "value": 0,
+        "maximum": 0
+    },
+    "после": {
+        "regex_char": "L",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "по": {
+        "regex_char": "f",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    },
+    "раз": {
+        "regex_char": "t",
+        "errors_limit": 0,
+        "value": 0,
+        "maximum": 0
+    }
+}
